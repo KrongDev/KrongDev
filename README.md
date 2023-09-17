@@ -1,7 +1,7 @@
 
 
-<h3 align="center">Blog</h3>
- <a href="https://velog.io/@krong98">velog</a>
+<a href="https://velog.io/@krong98">velog</a>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 
 <h3 align="center">💡 My Most Used Languages 💡</h3>
 <p align="center">
