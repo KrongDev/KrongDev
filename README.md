@@ -1,4 +1,8 @@
 
+
+<h3 align="center">Blog</h3>
+ <a href="https://velog.io/@krong98">velog</a>
+
 <h3 align="center">💡 My Most Used Languages 💡</h3>
 <p align="center">
   <a href="https://github.com/KrongDev">
