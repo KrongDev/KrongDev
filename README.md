@@ -1,8 +1,7 @@
 
 
 <a href="https://velog.io/@krong98">velog</a>
-<img src="https://img.shields.io/badge/Android-20C997?style=flat-square&logo=Android&logoColor=white"/>
-<img src="https://img.shields.io/badge/#20C997?style=flat-square&logo=Android&logoColor=white"/>
+<a href="https://velog.io/@krong98" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 
 <h3 align="center">💡 My Most Used Languages 💡</h3>
 <p align="center">
