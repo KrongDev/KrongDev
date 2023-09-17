@@ -27,6 +27,13 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
 </p>
 
+<h3 align="center"> Infra </h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Istio-466BB0?style=flat-square&logo=Istio&logoColor=white"/>
+</p>
+
 <h3 align="center">My Most Used Languages</h3>
 <p align="center">
   <a href="https://github.com/KrongDev">
