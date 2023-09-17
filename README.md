@@ -34,6 +34,13 @@
   <img src="https://img.shields.io/badge/Istio-466BB0?style=flat-square&logo=Istio&logoColor=white"/>
 </p>
 
+<h3 align="center"> OS </h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=CentOS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
+</p>
+
 <h3 align="center">My Most Used Languages</h3>
 <p align="center">
   <a href="https://github.com/KrongDev">
