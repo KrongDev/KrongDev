@@ -1,6 +1,6 @@
 
 
-<h3 align="center">💡 Blog 💡</h3>
+<h3>💡 Blog 💡</h3>
 <p>
   <a href="https://velog.io/@krong98" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 </p>
