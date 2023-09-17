@@ -1,8 +1,9 @@
 
 
-<a href="https://velog.io/@krong98">velog</a>
-<a href="https://velog.io/@krong98" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=black"/></a>
-
+<h3 align="center">💡 Blog 💡</h3>
+<p>
+  <a href="https://velog.io/@krong98" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
+</p>
 <h3 align="center">💡 My Most Used Languages 💡</h3>
 <p align="center">
   <a href="https://github.com/KrongDev">
