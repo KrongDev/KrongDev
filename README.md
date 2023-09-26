@@ -7,7 +7,7 @@
 
 <h3 align="center"> Roadmap </h3>
 <p align="center">
-  <a href="https://roadmap.sh/backend?s=650cf0b1d5295d7a813285a3" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Roadmap&logoColor=white"/></a>
+  <a href="https://roadmap.sh/backend?s=650cf0b1d5295d7a813285a3" target="_blank"><img src="https://img.shields.io/badge/roadmapdotsh-000000?style=flat-square&logo=Roadmap&logoColor=white"/></a>
 </p>
 
 <h3 align="center"> Front Stack </h3>
