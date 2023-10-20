@@ -3,7 +3,6 @@
 <h3 align="center"> Blog </h3>
 <p align="center">
   <a href="https://velog.io/@krong98" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
-  <a href="https://www.notion.so/f0b1408ec18749f2b2732e84e6ea5083?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 </p>
 
 <h3 align="center"> Roadmap </h3>
