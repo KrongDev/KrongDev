@@ -2,7 +2,7 @@
 
 <h3 align="center"> Blog </h3>
 <p align="center">
-  <a href="https://velog.io/@krong98" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
+  <a href="https://lee-geon-exception.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory-20C997?style=flat-square&logo=Tistory&logoColor=white"/></a>
 </p>
 
 <h3 align="center"> Roadmap </h3>
