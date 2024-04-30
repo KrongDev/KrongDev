@@ -5,12 +5,6 @@
   <a href="https://lee-geon-exception.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory-20C997?style=flat-square&logo=Tistory&logoColor=white"/></a>
 </p>
 
-<h3 align="center"> Portfolio </h3>
-<p align="center">
-  <a href="https://charm-cricket-777.notion.site/858e8188e7044286b332d4bca4b32c0a?pvs=4" target="_blank">
-     KrongDev Portfolio
-  </a>
-</p>
 
 <h3 align="center"> Roadmap </h3>
 <p align="center">
