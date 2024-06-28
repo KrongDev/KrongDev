@@ -1,16 +1,16 @@
-
-
 <h3 align="center"> Blog </h3>
 <p align="center">
-  <a href="https://lee-geon-exception.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory-20C997?style=flat-square&logo=Tistory&logoColor=white"/></a>
+  <a href="https://lee-geon-exception.tistory.com" target="_blank">
+    <img src="https://img.shields.io/badge/Tistory-20C997?style=flat-square&logo=Tistory&logoColor=white"/>
+  </a>
 </p>
-
 
 <h3 align="center"> Roadmap </h3>
 <p align="center">
-  <a href="https://roadmap.sh/backend?s=650cf0b1d5295d7a813285a3" target="_blank"><img src="https://img.shields.io/badge/roadmapdotsh-000000?style=flat-square&logo=roadmapdotsh&logoColor=white"/></a>
+  <a href="https://roadmap.sh/backend?s=650cf0b1d5295d7a813285a3" target="_blank">
+    <img src="https://img.shields.io/badge/roadmapdotsh-000000?style=flat-square&logo=roadmapdotsh&logoColor=white"/>
+  </a>
 </p>
-
 
 <h3 align="center"> Front Stack </h3>
 <p align="center">
@@ -52,5 +52,12 @@
 <p align="center">
   <a href="https://github.com/KrongDev">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrongDev&layout=compact&show_icons=true&show_owner=true&hide_title=true&theme=nord&hide=" />
+  </a>
+</p>
+
+<h3 align="center">Coding Profile</h3>
+<p align="center">
+  <a href="https://solved.ac/drik98/">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=drik98"/>
   </a>
 </p>
