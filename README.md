@@ -1,7 +1,3 @@
-# <a href="https://hhpluscertificateofcompletion.oopy.io/">
-#  <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg" />
-# </a>
-
 <h3 align="center"> Blog </h3>
 <p align="center">
   <a href="https://lee-geon-exception.tistory.com" target="_blank">
