@@ -5,8 +5,14 @@
   <a href="https://lee-geon-exception.tistory.com" target="_blank">
     <img src="https://img.shields.io/badge/Tistory-20C997?style=flat-square&logo=Tistory&logoColor=white"/>
   </a>
-  <a href="https://roadmap.sh/backend?s=650cf0b1d5295d7a813285a3" target="_blank">
+  <a href="https://krongdev.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&amp;logo=GitHub&amp;logoColor=white">
+  </a>
+  <!-- <a href="https://roadmap.sh/backend?s=650cf0b1d5295d7a813285a3" target="_blank">
     <img src="https://img.shields.io/badge/Roadmap.sh-000000?style=flat-square&logo=roadmapdotsh&logoColor=white"/>
+  </a> -->
+  <a href="https://hhpluscertificateofcompletion.oopy.io/">
+    <img src="https://static.spartaclub.kr/hanghae99/plus/completion/badge_black.svg" />
   </a>
 </div>
 
@@ -66,4 +72,5 @@
   <a href="https://solved.ac/drik98/">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=drik98"/>
   </a>
+  
 </div>
