@@ -55,15 +55,6 @@
 
 ---
 
-### 📊 My GitHub Stats
-<div align="center">
-  <a href="https://github.com/KrongDev">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrongDev&layout=compact&theme=nord&hide_title=true&hide_border=true&card_width=445px"/>
-  </a>
-</div>
-
----
-
 ### 🏆 Coding Profile
 <div align="center">
   <a href="https://solved.ac/drik98/">
