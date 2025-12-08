@@ -60,5 +60,5 @@
   <a href="https://solved.ac/drik98/">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=drik98"/>
   </a>
-  
+  ![Leetcode Stats](https://leetcard.Krongdev/lapor?ext=contest)
 </div>
