@@ -60,7 +60,7 @@
   <a href="https://solved.ac/drik98/">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=drik98"/>
   </a>
-  <a href="https://leetcard.jacoblin.cool/Krongdev?theme=unicorn&font=Hammersmith%20One&ext=activity">
-    <img src="https://leetcard.jacoblin.cool/Krongdev?theme=unicorn&font=Hammersmith%20One&ext=activity"/>
+  <a href="https://leetcard.jacoblin.cool/Krongdev?theme=unicorn&font=Hammersmith%20One">
+    <img src="https://leetcard.jacoblin.cool/Krongdev?theme=unicorn&font=Hammersmith%20One"/>
   </a>
 </div>
