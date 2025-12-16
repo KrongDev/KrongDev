@@ -49,15 +49,3 @@
   <img src="https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=CentOS&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
 </p>
-
----
-
-### 🏆 Coding Profile
-<div align="center">
-  <a href="https://solved.ac/drik98/">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=drik98"/>
-  </a>
-  <a href="https://leetcard.jacoblin.cool/Krongdev?theme=unicorn&font=Hammersmith%20One">
-    <img src="https://leetcard.jacoblin.cool/Krongdev?theme=unicorn&font=Hammersmith%20One"/>
-  </a>
-</div>
