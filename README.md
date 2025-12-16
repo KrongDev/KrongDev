@@ -5,9 +5,6 @@
   <a href="https://lee-geon-exception.tistory.com" target="_blank">
     <img src="https://img.shields.io/badge/Tistory-20C997?style=flat-square&logo=Tistory&logoColor=white"/>
   </a>
-  <a href="https://krongdev.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white">
-  </a>
   <a href="https://hhpluscertificateofcompletion.oopy.io/">
     <img src="https://static.spartaclub.kr/hanghae99/plus/completion/badge_black.svg" />
   </a>
